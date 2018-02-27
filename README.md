@@ -7,3 +7,6 @@ A simple clock and CPU usage / storage monitor for Conky.
 3. Run the following command: 
 `bash <(wget -qO- https://raw.githubusercontent.com/AweGuy22/simple-conky-clock/master/install-from-internet.sh)`.
 4. Start Conky.
+
+# Screenshot
+![alt text](https://github.com/AweGuy22/simple-conky-clock/raw/master/Screenshot_2018-02-27_22-17-47.png "Screenshot")
